@@ -33,6 +33,6 @@ public class pattern4
     public static void main(String[] args)
     {
         pattern4 obj = new pattern4();
-        obj.Pattern(1, 4);       
+        obj.Pattern(1, 4);       l
     }
 }
