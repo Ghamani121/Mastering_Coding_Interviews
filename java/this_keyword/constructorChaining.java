@@ -17,4 +17,9 @@ public class constructorChaining {
         this.author=author;
         this.title=title;
     }
+    public static void main(String[] args)
+    {
+        constructorChaining obj=new constructorChaining("r22ef070","java");
+        System.out.println(obj.author+" "+obj.title);
+    }
 }
