@@ -7,7 +7,6 @@
 // 17     30     29    28    27     10
 // 16     15     14    13    12     11
 
-
 //While loop for when condition ends
 //While x<=36 i.e, n*n
 //Four for loops
@@ -52,7 +51,7 @@ public class spiralPattern {
             colStart++;
         }
 
-        //print the array
+        // print the array
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print(a[i][j] + " ");
