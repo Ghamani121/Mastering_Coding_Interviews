@@ -7,8 +7,8 @@ class LeftMostDigit
  public int Count(int n)
  {
    while(n>9) n/=10;   
-   return n;
-  }
+  return n;
+  }
   public static void main(String[] args) {
     LeftMostDigit obj = new LeftMostDigit();
     System.out.println(obj.Count(285));
