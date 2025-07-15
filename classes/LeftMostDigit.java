@@ -13,4 +13,4 @@ class LeftMostDigit
     LeftMostDigit obj = new LeftMostDigit();
     System.out.println(obj.Count(285));
   }
-}///////
+}njk jb
