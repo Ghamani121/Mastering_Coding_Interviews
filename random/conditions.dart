@@ -11,11 +11,4 @@ void main()
   else 
   print("enter the correct zone");
 }
-// ghamani
-// lakshya
-// savitha
-// umapathy
-// manja naik
-// vanitha u
-// kavihta
-mrs hithilshi
+
